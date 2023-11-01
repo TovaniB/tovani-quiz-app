@@ -1,6 +1,12 @@
 img {
-margin-right: auto;
-padding: 50px;   
-width: 50px;
-margin-right: 20px;
+  width: 50px;
+  margin-right: 20px;
+  text-align: right;
+  top: 0px;
+  right: 30px;
+  position: absolute;
+}
+
+section {
+  position: relative;
 }
